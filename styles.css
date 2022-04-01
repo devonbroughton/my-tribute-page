@@ -1,0 +1,53 @@
+.image {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+
+
+}
+
+h2{
+    color:#3d6cb9;
+    
+    font-style: oblique;
+    
+}
+
+h1{
+    color:rgb(4, 50, 78);
+    text-decoration: 
+    
+}
+p{
+    color: rgb(20, 45, 45);
+    text-decoration: 
+    
+}
+
+blockquote{
+    color:#3d6cb9;
+    text-decoration: 
+    font-style: oblique;
+    
+    
+}
+
+arhef{
+    color:#3d6cb9;
+    
+}
+
+body{
+    font-family: system-ui;
+    background-color: rgb(165, 243, 255);
+  text-align: center;
+
+    
+}
+
+title{
+    font-family: cursive;
+    font-style: oblique;
+ 
+
+}
